@@ -42,15 +42,6 @@ João, 500
 Maria, 1000
 FIM
 
-
 João: R$ 500, Maria: R$ 1000
 
-Esse código garante que as contas são armazenadas e listadas corretamente, conforme o desafio. 🚀
-
-
-
-
-
-
-
-
+Esse código garante que as contas são armazenadas e listadas corretamente, conforme o desafio.

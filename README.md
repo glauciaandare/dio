@@ -1,2 +1,2 @@
 # dio
-Repositorio de todas as atividades dos botcamps da DIO
+Repositório de todas as atividades dos botcamps da DIO
